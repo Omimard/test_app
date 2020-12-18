@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World, git, sonar and nexus</h2>
+<h2>Hello World, git, sonar and nexus(no versioning)</h2>
 </body>
 </html>
